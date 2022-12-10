@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ValeriaP5
-- 👀 I’m interested in computer vision research for 🌊
+- 👀 I’m interested in computer vision systems for marine research 🌊
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on machine learning projects with environmental impact 
 - 📫 How to reach me vpinatelliugarte@gmail.com
